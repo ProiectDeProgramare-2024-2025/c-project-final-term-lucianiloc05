@@ -1,0 +1,62 @@
+Alin
+20
+Terraria
+1.4
+I
+Simps 4
+1.0
+I
+Warcraft 3
+1.31
+I
+Minecraft
+1.20
+I
+Total War: Rome
+2.0
+I
+Age of Empires 2
+5.0
+N
+Elden Ring
+1.0
+N
+Dead by Daylight
+6.0
+N
+Microsoft Word
+16.0
+N
+Microsoft Excel
+16.0
+N
+Microsoft PowerPoint
+16.0
+N
+Adobe Photoshop
+25.3
+N
+Adobe Premiere Pro
+24.1
+N
+Visual Studio
+2022
+N
+Notepad++
+8.5
+N
+Blender
+3.6
+N
+7-Zip
+23.0
+N
+OBS Studio
+30.0
+N
+GIMP
+2.10
+N
+Audacity
+3.4
+N
